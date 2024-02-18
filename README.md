@@ -33,7 +33,21 @@ Has the length of stay affected revenue or other metrics, and if so, how have th
 Which city has demonstrated the highest popularity, and how have pricing strategies varied across different cities?
 
 ### Data Analysis:
-By analyzing the changes,distribution and comparison based on various conditions in quantity of properties, revenue, nightly rate, ADR(Average Daily Revenue) RePAR(Revenue per avaliable room), cities and length stay, thereby obtaining insights from market
+By analyzing the changes,distribution and comparison based on various conditions in quantity of properties, revenue, nightly rate, **ADR**(Average Daily Revenue) RePAR(Revenue per avaliable room), cities and length stay, thereby obtaining insights from market
 
 ### Result:
-Overal, no matter what is quantity of property or revenue from property or even other items, all of them has experienced surge from 202 to 2021, then a downward in year 2022, possible reason is Pendamic (COVID-19), people chose to stay at home instead of going out. There are some intresting results also draw much attetion, becasue they are unexpected results.   
+- Since 2019, revenue and nightly rates have trended upward, with a noticeable increase from 2020 to 2021, despite a slight downturn in 2022. Revenue and nightly rate patterns indicate peaks at the year's start and end, dipping during mid-year, indicative of seasonal consumer behavior shifts—preferring travel in summer and staying home in winter, underscoring seasonality's role in revenue dynamics.
+- Remarkably, small and medium-sized professional properties have excelled in revenue generation, amassing $244M and $149M, respectively, eclipsing other segments. Moreover, properties devoid of amenities like hot tubs or pools surprisingly garnered $519M in revenue, substantially outperforming those with such amenities. This trend points to a clientele, primarily single occupants or couples without children, valuing cost over amenities and size.
+- Analysis of lead times reveals that durations under 200 days typically yield an average revenue of $10K. Conversely, lead times beyond 200 days introduce volatility in revenue outcomes, either increasing or decreasing unpredictably, suggesting prolonged lead times may destabilize revenue.
+- The relationship between nightly rates and lead time reflects similar patterns observed in revenue, with shorter lead times boosting nightly rates, whereas extended lead times lead to fluctuating rates, either surpassing or dipping below expectations.
+- A significant disparity between ADR and RevPAR indicates high rates per booked night do not guarantee full room bookings nightly. Enhancing occupancy rates stands to considerably influence total revenue.
+- The preference for longer stays suggests tourists booking in advance opt for extended durations, contrary to the shorter stays associated with last-minute bookings, typically for business or brief work 
+  engagements. Stays within the 170 to 180-day range prove most profitable, yielding the highest average revenue.
+- Joshua Tree and Yucca Valley demonstrate superior revenue per occupied room, implying these locales effectively utilize their allure to command premium rates. Big Bear Lake, favored for its longer-stay appeal, showcases its desirability despite its premium nightly rates. Meanwhile, Big Bear City, known for the lowest rates among the compared locations, alongside Big Bear Lake's high rates and popularity for extended stays, illustrate the diverse pricing strategies employed across different locales
+
+**ADR**: a measure of the average rental income earned for an occupied room per day
+
+**RePAR**:  a performance metric that measures the revenue generated per available room, whether occupied or not, over a specific period.
+
+### Reference:
+Kaggle.com
