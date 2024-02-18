@@ -33,7 +33,7 @@ Has the length of stay affected revenue or other metrics, and if so, how have th
 Which city has demonstrated the highest popularity, and how have pricing strategies varied across different cities?
 
 ### Data Analysis:
-By analyzing the changes,distribution and comparison based on various conditions in quantity of properties, revenue, nightly rate, **ADR**(Average Daily Revenue) **RePAR**(Revenue per avaliable room), cities and length stay, thereby obtaining insights from market
+Through examining fluctuations, distributions, and comparisons of property counts, revenue, nightly rates, ADR (Average Daily Revenue), RevPAR (Revenue per Available Room), city-based performance, and lengths of stay under different conditions, we have gleaned valuable insights into market dynamics.
 
 ### Result:
 - Since 2019, revenue and nightly rates have trended upward, with a noticeable increase from 2020 to 2021, despite a slight downturn in 2022. Revenue and nightly rate patterns indicate peaks at the year's start and end, dipping during mid-year, indicative of seasonal consumer behavior shifts—preferring travel in summer and staying home in winter, underscoring seasonality's role in revenue dynamics.
